@@ -1,3 +1,5 @@
+This repo will be archived, I've rewrite the history to make all codes under source/ (https://github.com/hangxie/parquet-go-source/tree/hangxie/merge) then merge this repo to https://github.com/hangxie/parquet-go, more details can be found at https://github.com/hangxie/parquet-go/pull/17.
+
 # parquet-go-source 
 
 parquet-go-source is a source provider for parquet-go. Your source must implement ParquetFile interface:
